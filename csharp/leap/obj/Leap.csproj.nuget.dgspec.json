@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\KOLA\\Exercism\\csharp\\leap\\Leap.csproj": {}
+    "C:\\Users\\KOLA\\Exercism\\csharp\\leap\\Leap.csproj": {}
   },
   "projects": {
-    "c:\\Users\\KOLA\\Exercism\\csharp\\leap\\Leap.csproj": {
+    "C:\\Users\\KOLA\\Exercism\\csharp\\leap\\Leap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\KOLA\\Exercism\\csharp\\leap\\Leap.csproj",
+        "projectUniqueName": "C:\\Users\\KOLA\\Exercism\\csharp\\leap\\Leap.csproj",
         "projectName": "Leap",
-        "projectPath": "c:\\Users\\KOLA\\Exercism\\csharp\\leap\\Leap.csproj",
+        "projectPath": "C:\\Users\\KOLA\\Exercism\\csharp\\leap\\Leap.csproj",
         "packagesPath": "C:\\Users\\KOLA\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\KOLA\\Exercism\\csharp\\leap\\obj\\",
+        "outputPath": "C:\\Users\\KOLA\\Exercism\\csharp\\leap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
